@@ -1,10 +1,9 @@
 FAKE-NEWS-PREDICTION
 
 Group Members:
+               
                Kritika Donde
-               
                Disha Panchal
-               
                Lakshit Patil
               
  The fake news prediction system is an innovative technology that utilizes machine learning 
